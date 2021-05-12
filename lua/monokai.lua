@@ -83,7 +83,7 @@ function monokai.load_syntax()
         },
         ColorColumn = {
             fg = monokai.none,
-            bg = monokai.bg
+            bg = monokai.bg_highlight
         },
         CursorLine = {
             fg = monokai.none,
